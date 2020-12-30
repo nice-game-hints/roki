@@ -6,6 +6,7 @@ ITEMS:
  - Old rag from the burrow (right from the Trollhulde's cave)
  - Empty jar from the cave of potions (under the Poisoned Forest)
  - Trowel from the cave of potions (under the Poisoned Forest)
+ - Valerian Flower from the Mountain Plateau after Wolf Ruins (climb up the rocky ladder)
 
 
 PUZZLES:
@@ -33,3 +34,15 @@ Moving unseen (the recipe in the laboratory):
 
 Church outside building 
 - The buried disk, use trowel to dig it up
+
+Making a torch:
+
+
+Commanding water spirits:
+Power to play music so well can make water dance.
+- Bring and instrumet
+- Offering of fodd
+- Charge up three thirsty stones
+ - One that was large but now small
+ - One that was clean, but now tainted
+ - One that hides a tragic secret long forgotten

@@ -9,12 +9,16 @@ Trollhilde would like to taste human tea.
 Have you got accesss to [the east side](050-mother-tree.md) of the forest, yet?
 
 # I have
-Then you have found Trollhulde and his recipe book, also. Read the book ^[ three times] to find the recipe for sleepy tea.
+Then you have found Trollhulde and her recipe book, also. Read the book ^[ three times] to find the recipe for sleepy tea.
 
 # I have the recipe
-- [Valerian-of-the-Mountain flower](tbd)
-- Whispervine flower ^[ You find Whispervine flower from [tbd](tbd) ]
-- [Sopor Lily](tbd)
+The flowers can be found while solving other problems. Keep you eyes peeled.
 
-# I have the ingredients
+# Tell me more
+Here's the flowers and where you find them.
+- Valerian-of-the-Mountain flower ^[ The flower can be found from the Mountain Plateau, after the [Wolf Ruins](300-wolf-ruins/index.md). ]
+- Whispervine flower ^[ You find Whispervine flower from [tbd](tbd) ]
+- Sopor Lily ^[ You find sopor lily at the pond when you are looking for the [Wolf Staff](300-wolf-ruins/030-missing-staff.md). ]
+
+# I have the three flowers
 [tbd](tbd)
