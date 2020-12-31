@@ -33,7 +33,4 @@ There are three *krokelings* to find and return to her.
  - [The krokeling in the Poisoned Forest](../030-krokeling.md)
 
 # I have them
-Return them to Momma!
-
-# Beard?
-[tbd](tbd)
+Return them to Momma! She will offer her beard to you. ^[ Cut some hair with the sword. ]

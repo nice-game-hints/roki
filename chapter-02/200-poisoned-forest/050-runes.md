@@ -8,8 +8,11 @@ Three runes inside this stone circle.
 # What to do?
 You can tilt them.
 
-# Yes?
-Turn them all to upward position.
+# How?
+Find some hints, near the pond.
+
+# The pillar?
+Yes. Go check what the runes look like in the pillar. Rotate the runes to match.
 
 # Show me!
 They should look like this.

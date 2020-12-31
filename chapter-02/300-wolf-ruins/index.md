@@ -2,4 +2,4 @@
 title: Wolf ruins
 ---
 
-Wolf ruins. Solve the puzzles.
+Wolf ruins. Solve the puzzles.[tbd](tbd)
