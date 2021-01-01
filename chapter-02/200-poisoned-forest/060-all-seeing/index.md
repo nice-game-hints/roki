@@ -16,3 +16,6 @@ This is the list. Here's a general hint about them ^[ All the ingredients can be
 
 # I have all the ingredients
 Put them into the cauldron to get the Mask of All-Seeing.
+
+# I have it
+Shroomi asks you to collect [three fresh nattablooms](../070-three-nattabloom/index.md).
