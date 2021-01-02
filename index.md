@@ -5,4 +5,4 @@ author: Juho Rutila
 praise: https://www.buymeacoffee.com/jrutila
 ---
 
-Work in progress for Röki
+Work in progress for Röki.
