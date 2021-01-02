@@ -5,7 +5,7 @@ title: Bookshelf
 There is a bookshelf in the Western Guard Tower. It is missing [three books](120-three-books.md).
 
 # I have all three books
-Great, put them into their correct places.
+Great, *Henrik* can put them into their correct places.
 
 # Correct places?
 Okay, let's see what books we have in the rows:
