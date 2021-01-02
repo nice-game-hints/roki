@@ -18,10 +18,10 @@ To Trollhulde. Go vist her and ask about the wolf staff. She will help you furth
 Take the sopor lily flower.
 
 # Nokken!
-[Escape from it!](../350-nokken/005-escape.md)
+[Escape from it!](../350-nokken/005-escape-nokken.md)
 
 # What next?
-The staff is still there, in Nokken's lair. [Get back there.](../350-nokken/040-reenter-cave.md)
+The staff is still there, in Nokken's lair. [Get back there.](../350-nokken/030-reenter-cave.md)
 
 # I'm in
 Move the water wall with your flute.

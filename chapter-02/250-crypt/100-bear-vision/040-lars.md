@@ -12,7 +12,7 @@ Build him a drum set.
 You need three noisy items:
  - Coffee cup ^[ On the porch. Empty the cup into the bowl of water. ]
  - Flower pot ^[ On the porch. ]
- - [Cooking pot](050-cookin-pot.md)
+ - [Cooking pot](050-cooking-pot.md)
 
 # I have them
 Give them to Lars. You get the last song sheet.

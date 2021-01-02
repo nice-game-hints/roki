@@ -9,7 +9,7 @@ Trollhilde is hurt. There is a dagger stuck on her back and she cannot reach it.
 You need to build a helping tool. First, you need rope.
 
 # Rope!
-There's some rope in [the church](03-church-gate.md).
+There's some rope in [the church](030-church-gate.md).
 
 # I got the rope
 Great, and next attach something into it. Something that can *catch* the dagger.

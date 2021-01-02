@@ -9,4 +9,4 @@ Massive church bell. What do you want to do with it?
 Sounds reasonable. Go and cut it loose.
 
 # With what?
-With [a sharp dagger](060-sharp-dagger.md).
+With [a sharp dagger](../060-sharp-dagger.md).

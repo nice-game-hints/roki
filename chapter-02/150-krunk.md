@@ -12,7 +12,7 @@ You would need a *decoy*.
 Maybe some kind of statue would do.
 
 # A statue?
-There is [one near the church](035-wooden-statue.md).
+There is [one near the church](050-church/035-wooden-statue.md).
 
 # I have the wooden statue!
 Great! Now, just use it on Krunk to free him.

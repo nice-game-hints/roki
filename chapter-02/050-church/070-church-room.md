@@ -12,4 +12,4 @@ With massive force!
 Drop the bell to the floor.
 
 # How?
-With [a sharp dagger](060-sharp-dagger.md).
+With [a sharp dagger](../060-sharp-dagger.md).

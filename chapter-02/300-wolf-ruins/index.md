@@ -2,4 +2,4 @@
 title: Wolf ruins
 ---
 
-Wolf ruins. Solve the puzzles.[tbd](tbd)
+Wolf ruins is the passage towards one of the guardians. Solve the puzzles.

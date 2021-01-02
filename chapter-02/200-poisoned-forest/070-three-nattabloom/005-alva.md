@@ -20,7 +20,7 @@ Go up the hidden mushroom stairs ^[ Use the all-seeing mask to see them. ] from 
 
 # And?
 Head far right end of the area. It is the one under the tree. Use the key into it.
-![Trapped älva's house](alva_house.md)
+![Trapped älva's house](alva_house.png)
 
 # Got the wand
 Return to Älva and free it. ^[ Use the wand on the toadstool. ]

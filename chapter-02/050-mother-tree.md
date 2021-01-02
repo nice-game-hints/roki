@@ -21,7 +21,7 @@ Next, the rest up there.
 Use pebbles. You will find them.
 
 # Where?
-[Help Trollhilde](04-hurt-troll.md), first. ^[ After that you get access to her lair. Take the pebbles from the ground. ]
+[Help Trollhilde](040-hurt-troll.md), first. ^[ After that you get access to her lair. Take the pebbles from the ground. ]
 
 # I got the pebbles
 Use them against the ravens.

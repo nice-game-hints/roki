@@ -3,13 +3,13 @@ title: Sharpening the dagger
 keywords: dagger, rusty, blunt
 ---
 
-[The dagger](04-hurt-troll.md) is rusty and blunt.
+[The dagger](040-hurt-troll.md) is rusty and blunt.
 
 # Where to?
 Did you talk to the Tree of Many. ^[ It says there is nothing on *this* side of the forest.]
 
 # The other side?
-Your way to the other side of the forest is blocked by [the Mother Tree](05-mother-tree.md).
+Your way to the other side of the forest is blocked by [the Mother Tree](050-mother-tree.md).
 
 # I woke her!
 Now the door is open to the right. Go explore!
@@ -24,7 +24,7 @@ It is not turning... And the cogs are too heavy.
 Did you spot the ceremonial bowl and markings up there?
 
 # Yes?
-[Summon the Tomte to help you.](120-summon-tomte.md)
+[Summon the Tomte to help you.](070-watermill/120-summon-tomte.md)
 
-# Did it!
-The grindstone works now. Sharpen the blunt dagger on it.
+# Summoned the tomte!
+Get down into the basement. The grindstone works now. Sharpen the blunt dagger on it.

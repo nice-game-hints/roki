@@ -28,8 +28,8 @@ Luckily she didn't eat you! You just have to find and return her three sons.
 
 # Three sons?
 There are three *krokelings* to find and return to her.
- - [The krokeling in Trollhulde's cave](../150-krunk.md)
- - [The hiding krokeling](../090-creature-sunken-cabin.md) ^[ It is at the sunken cabin]
+ - [The krokeling in Trollhulde's cave](../../150-krunk.md)
+ - The hiding krokeling ^[ It is at [the sunken cabin](../../090-creature-sunken-cabin.md). ]
  - [The krokeling in the Poisoned Forest](../030-krokeling.md)
 
 # I have them

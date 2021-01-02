@@ -16,7 +16,7 @@ Did you notice there's another ^[ Right from the door. ] sapling? Water it. ^[ Y
 # It grew
 Now, fix the dream scenes.
  - [Tove drawing](050-tove.md)
- - [Pappa painting](060-pappa-crib.md)
+ - [Pappa painting](040-pappa-crib.md)
  - [Mamma knitting](070-mamma-knit.md)
  - [Pappa fixing the car](060-pappa-car.md)
 

@@ -25,4 +25,4 @@ Look closely the slots and the torches.
 They have number of lines. Match the lines and you get the doors open. ^[ You have to tilt all of them, too. ]
 
 # Doors open
-Now you can get to [the dining hall](100-dining-hall.md) from the right hand door.
+Now you can get to [the dining hall](100-dining-hall/index.md) from the right hand door.

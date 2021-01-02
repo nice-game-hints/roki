@@ -19,7 +19,7 @@ Third one is in the church area, but not in the church. ^[ There is the smaller 
 Dig it up inside the vault building. ^[ Use the trowel you find from the cave of potions, in the bottom drawer, in the Poisoned Forest. ]
 
 # I got it. And the fourth?
-Have you gone to the [Wolf Ruins](../300-wofl-ruins/index.md), already?
+Have you gone to the [Wolf Ruins](../300-wolf-ruins/index.md), already?
 
 # I have
 So you got to the mountain plateau. There is an interesting cave if you go the ladders up.
