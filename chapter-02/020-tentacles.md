@@ -9,4 +9,4 @@ There are those purple tentacles blocking your way everywhere.
 You would need a weapon. [A dagger.](040-hurt-troll.md)
 
 # I have it but it is blunt
-[Sharpen it.](060-sharp-dagger.md) You can now cut throuth stuff, like the tentacles.
+[Sharpen it.](060-sharp-dagger.md) You can now cut through stuff, like the tentacles.
