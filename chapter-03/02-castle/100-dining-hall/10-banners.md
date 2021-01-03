@@ -16,4 +16,4 @@ Here are all four in one picture:
 
 # What to do with these?
 Look at the statues in the dining hall. The banner design matches those statues.
-![Four banners](four_banners.png)
+![Four banners](four_banners_ordered.png)
