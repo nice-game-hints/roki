@@ -3,6 +3,7 @@ title: Röki
 keywords: roki, röki, norse
 author: Juho Rutila
 praise: https://www.buymeacoffee.com/jrutila
+released: 2020-01-03
 ---
 
 Welcome to spoiler-free hints for Röki.
