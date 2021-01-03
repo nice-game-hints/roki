@@ -17,7 +17,7 @@ Oh, you can find hints [from the banners](10-banners.md).
 
 # Don't get it
 Each banner has a season symbol and the animal. Match the animal from the slab to the symbol on the statue.
-![Four banners](four_banners.png)
+![Four banners](four_banners_ordered.png)
 
 # Tell me the correct pairings
 The pairings are:

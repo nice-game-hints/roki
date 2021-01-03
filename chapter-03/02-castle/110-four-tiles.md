@@ -1,5 +1,5 @@
 ---
-title: The tiles
+title: The four tiles
 ---
 
 There are total of four tiles to find around the castle.
