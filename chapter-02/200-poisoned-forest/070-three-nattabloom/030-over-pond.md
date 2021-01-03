@@ -29,7 +29,7 @@ Find three mushrooms and plant them and grow them to create a bridge to the natt
 
 # I have three
 Plant them and grow them. You have to plant them in correct order ^[ From left to right: large, medium, small. ]
-![Grown mushroom bridge](mushroom-bridge.png)
+![Grown mushroom bridge](mushroom_bridge.png)
 
 # How to get a sample?
 Use your dagger on the nattabloom.
