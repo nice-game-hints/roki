@@ -3,6 +3,7 @@ title: Röki
 keywords: roki, röki, norse
 author: Juho Rutila
 praise: https://www.buymeacoffee.com/jrutila
+praiseModal: h10
 released: 2021-01-03
 ---
 
