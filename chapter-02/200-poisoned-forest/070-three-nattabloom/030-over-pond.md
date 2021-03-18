@@ -24,7 +24,7 @@ Find three mushrooms and plant them and grow them to create a bridge to the natt
 
 # Where are the mushrooms?
  - One mushroom is in this area. ^[ Right after the bridge. ]
- - One mushroom is in the northern area, where you go by the mushroom "stairs". ^[ Go down the hole in the ground (can be seen with the mask) in the middle of the mushroom circle. Shrink the mushroom and dig it up with the trowel.
+ - One mushroom is in the northern area, where you go by the mushroom "stairs". ^[ Go down the hole in the ground (can be seen with the mask) in the middle of the mushroom circle. Shrink the mushroom and dig it up with the trowel. ]
  - One mushroom is in the eastern area. ^[ After the bridge next to an älva house. ]
 
 # I have three
